@@ -3,11 +3,11 @@
 ## Overview
 This project explores traffic sign identification using TinyML. To understand existing approaches, we reviewed relevant literature and identified key factors like common models, data formats, dataset sizes, and pretrained models.
 
-🔹 Findings:
-✔ CNN-based models like MobileNet are widely used
-✔ Images must be properly labeled for training
-✔ Large datasets improve accuracy, but transfer learning helps with small datasets
-✔ Pretrained models (Edge Impulse/TensorFlow Lite) can accelerate development
+Findings:
+CNN-based models like MobileNet are widely used
+2.Images must be properly labeled for training
+3.Large datasets improve accuracy, but transfer learning helps with small datasets
+4.Pretrained models (Edge Impulse/TensorFlow Lite) can accelerate development
 
 ## Guidelines
 
