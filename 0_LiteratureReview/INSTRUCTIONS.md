@@ -1,13 +1,13 @@
 # Literature Review
 
 ## Overview
+This project explores traffic sign identification using TinyML. To understand existing approaches, we reviewed relevant literature and identified key factors like common models, data formats, dataset sizes, and pretrained models.
 
-This project milestone requires you to review the literature related to your project. The objective is to gain a deeper understanding of the problem domain, as well as to identify similar approaches or solutions that have been tried before.
-You might want to answer the following questions:
-  * Which are the models commonly used for my problem?
-  * Which format must the training data have?
-  * How much training data is typically used in similar problems?
-  * Are there pretrained models I can use for my problem?
+🔹 Findings:
+✔ CNN-based models like MobileNet are widely used
+✔ Images must be properly labeled for training
+✔ Large datasets improve accuracy, but transfer learning helps with small datasets
+✔ Pretrained models (Edge Impulse/TensorFlow Lite) can accelerate development
 
 ## Guidelines
 
